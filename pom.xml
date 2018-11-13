@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.atguigu</groupId>
+    <artifactId>springBoot_01</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>spring-boot-01-helloworld</module>
+        <module>spring-boot-02-config</module>
+        <module>spring-boot-02-config-02</module>
+        <module>spring-boot-02-config-autoconfig</module>
+        <module>spring-boot-03-logging</module>
+        <module>spring-boot-04-web-jsp</module>
+        <module>spring-boot-04-web-restfulcrud</module>
+        <module>spring-boot-06-data-jdbc</module>
+        <module>spring-boot-06-data-jpa</module>
+        <module>spring-boot-06-data-mybatis</module>
+        <module>spring-boot-07</module>
+        <module>spring-boot-08-starter</module>
+        <module>spring-boot-08-starter-test</module>
+    </modules>
+
+
+</project>
